@@ -1,0 +1,11 @@
+.container {
+    position: absolute;
+    bottom: 1%;
+    left: 40%;
+    width: 300px;
+    padding: 20px
+}
+
+.login-container {
+    height: 68%;
+}
